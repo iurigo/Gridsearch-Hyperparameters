@@ -1,4 +1,5 @@
 # Gridsearch-Hyperparameters
+![](https://github.com/iurigo/Gridsearch-Hyperparameters/blob/master/image.png)
 
 Hyper-parameters are parameters that are not directly learnt within estimators. In scikit-learn they are passed as arguments to the constructor of the estimator classes. Typical examples include C, kernel and gamma for Support Vector Classifier, alpha for Lasso, etc.
 It is possible and recommended to search the hyper-parameter space for the best cross validation score.
